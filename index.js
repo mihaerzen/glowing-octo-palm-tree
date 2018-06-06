@@ -1,1 +1,4 @@
-console.log('Hello, World!');
+function logger() {
+    console.log('start');
+    console.log('end');
+}
