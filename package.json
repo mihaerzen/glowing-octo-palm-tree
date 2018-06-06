@@ -1,0 +1,19 @@
+{
+  "name": "async-workshop",
+  "version": "1.0.0",
+  "description": "🌟8 🌴",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaerzen/glowing-octo-palm-tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihaerzen/glowing-octo-palm-tree/issues"
+  },
+  "homepage": "https://github.com/mihaerzen/glowing-octo-palm-tree#readme"
+}
