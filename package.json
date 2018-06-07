@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mihaerzen/glowing-octo-palm-tree/issues"
   },
-  "homepage": "https://github.com/mihaerzen/glowing-octo-palm-tree#readme"
+  "homepage": "https://github.com/mihaerzen/glowing-octo-palm-tree#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
 }
